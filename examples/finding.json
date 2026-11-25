@@ -1,0 +1,20 @@
+{
+  "before": {
+    "orders": [
+      "id",
+      "status"
+    ]
+  },
+  "after": {
+    "orders": [
+      "id"
+    ]
+  },
+  "required_by_old_client": {
+    "orders": [
+      "status"
+    ]
+  },
+  "lock_ms": 220,
+  "lock_budget_ms": 200
+}
