@@ -27,3 +27,4 @@ The second command deliberately exits with status 1 and reports `lock_budget_exc
 - [Architecture](docs/architecture.md) and [threat model](docs/threat-model.md)
 - [Project rules](RULES.md), [roadmap](ROADMAP.md), and [contributing](CONTRIBUTING.md)
 - [Security reporting](SECURITY.md) and [license](LICENSE)
+- [Published documentation](https://parsa-emami.github.io/schema-rehearsal/)
